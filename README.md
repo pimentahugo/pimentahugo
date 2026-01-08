@@ -1,8 +1,8 @@
 # Hugo Pimenta
 
-Olá! Seja bem vindo ao meu perfil. Tenho 23 anos, sou estudante de Sistemas de Informação no 6° período em constante evolução.
+Prazer, sou Hugo. Apaixonado por tecnologia e conhecimento, estou sempre em busca de aprender novas tecnologias e poder contribuir em projetos que participo. Sou formado em Sistemas de Informação pela FEMASS.
 
-Fique a vontade para entrar em contato, colaborar ou explorer um projeto juntos.
+Fique à vontade para entrar em contato, estou sempre aberto a compatilhar ideias e conhecimentos!
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-pimenta-92b080217/)
